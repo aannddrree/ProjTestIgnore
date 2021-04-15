@@ -39,7 +39,7 @@ ProjTestIgnore/wwwroot/image/*
 # Visual Studio 2017 auto generated files
 Generated\ Files/
 
-# MSTest test Results
+# MSTest test Resultsgit 
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
